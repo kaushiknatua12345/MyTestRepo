@@ -1,0 +1,7 @@
+C:\Users\knatua\source\repos\TDD_19thJuly\TDD_19thJuly\bin\Debug\TDD_19thJuly.exe.config
+C:\Users\knatua\source\repos\TDD_19thJuly\TDD_19thJuly\bin\Debug\TDD_19thJuly.exe
+C:\Users\knatua\source\repos\TDD_19thJuly\TDD_19thJuly\bin\Debug\TDD_19thJuly.pdb
+C:\Users\knatua\source\repos\TDD_19thJuly\TDD_19thJuly\obj\Debug\TDD_19thJuly.csproj.AssemblyReference.cache
+C:\Users\knatua\source\repos\TDD_19thJuly\TDD_19thJuly\obj\Debug\TDD_19thJuly.csproj.CoreCompileInputs.cache
+C:\Users\knatua\source\repos\TDD_19thJuly\TDD_19thJuly\obj\Debug\TDD_19thJuly.exe
+C:\Users\knatua\source\repos\TDD_19thJuly\TDD_19thJuly\obj\Debug\TDD_19thJuly.pdb
